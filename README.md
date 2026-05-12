@@ -23,7 +23,6 @@ All tools run directly in the browser.
 
 ## Pages
 
-- [Home](https://kike-pinto.github.io/data-tools-platform-site
-- [Index](https://kike-pinto.github.io/data-tools-platform-site/index.html)
+- [Home](https://kike-pinto.github.io/data-tools-platform-site)
 - [Guides](https://kike-pinto.github.io/data-tools-platform-site/guides.html)
 - [Categories](https://kike-pinto.github.io/data-tools-platform-site/categories.html)
