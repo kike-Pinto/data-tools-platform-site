@@ -20,3 +20,9 @@ Available tools include:
 These tools help clean messy datasets, convert file formats and prepare data for applications or automation workflows.
 
 All tools run directly in the browser.
+
+## Pages
+
+- [Home](https://kike-pinto.github.io/data-tools-platform-site/)
+- [Guides](https://kike-pinto.github.io/data-tools-platform-site/guides.html)
+- [Categories](https://kike-pinto.github.io/data-tools-platform-site/categories.html)
